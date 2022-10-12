@@ -1,0 +1,29 @@
+body{
+    background-color: blue;
+}
+#autok{
+
+}
+.auto img{float: right;
+    
+}
+.auto{
+padding: 10px;
+text-align: justify;
+margin: 10px;
+background-color: rgb(177, 238, 238);
+}
+.auto2{
+    padding: 10px;
+    text-align: justify;
+    margin: 10px;
+    background-color: rgb(177, 238, 238);
+
+}
+.auto2 img{float: left;
+    
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+}
